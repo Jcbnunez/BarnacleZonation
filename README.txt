@@ -1,4 +1,4 @@
-Scripts will be added upon publication
+Scripts and data will be added upon publication
 
 cheers
 
