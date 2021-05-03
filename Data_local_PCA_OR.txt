@@ -1,0 +1,17 @@
+test	or	or_low	or_high	set
+mono	1.606036	1.520298	1.696609	polymorphims
+bi	0.7217527	0.7094171	0.7343028	polymorphims
+tri	1.367501	1.3427	1.39276	polymorphims
+quadra	1.150698	1.033763	1.28086	polymorphims
+coding	0.1902607	0.1848959	0.1957813	location
+fiveutr	0.2657204	0.2422822	0.291426	location
+intergenic	2.665986	2.643021	2.689151	location
+intron	0.8911675	0.8840353	0.8983573	location
+promoter	0.06094062	0.05568748	0.0666893	location
+threeutr	0.4635705	0.4254417	0.5051165	location
+unknown	0.8889297	0.8817524	0.8961654	location
+nonsense	1.162055	0.8650405	1.5610506	consequence
+nonsynonymous	0.3357414	0.312378	0.3608522	consequence
+not translated	0.1015818	0.03809155	0.27089622	consequence
+synonymous	2.983151	2.779457	3.201772	consequence
+				
